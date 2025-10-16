@@ -1,0 +1,11 @@
+{
+  "name": "hibikicode-codegame",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/key8888/hibikicode-codegame.git",
+  "author": "shisei",
+  "license": "MIT",
+  "devDependencies": {
+    "hydrooj": "^5.0.0-beta.9"
+  }
+}
